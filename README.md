@@ -1,5 +1,5 @@
 # Impact of Covid on US aviation
-https://observablehq.com/@divyaselvaraj/final-project
+https://observablehq.com/@divyaselvaraj/covid-aviation
 
 Project using Javascript and Observable notebook
 
